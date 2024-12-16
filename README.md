@@ -929,14 +929,27 @@ w(S, R) = (x + 3) > z + 5
 
 ##### (2) 顺序结构
 ![Pasted image 20241214123636](README.assets/Pasted image 20241216022034.png)
+
+
+
 ![Pasted image 20241214123636](README.assets/Pasted image 20241216022041.png)
+
+
 
 ##### (3) 条件分支
 ![Pasted image 20241214123636](README.assets/Pasted image 20241216022103.png)
+
+
+
 ![Pasted image 20241214123636](README.assets/Pasted image 20241216022118.png)
+
+
 
 ##### (4) 循环结构
 ![Pasted image 20241214123636](README.assets/Pasted image 20241216022132.png)
+
+
+
 ![Pasted image 20241214123636](README.assets/Pasted image 20241216022139.png)
 
 总结
